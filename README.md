@@ -1,6 +1,6 @@
 ### Olá 👋
 
-<h1 align="center">Hello.kt! 💻 🌎</h1>
+<h1 align="center">Hello.kt 💻 🌎</h1>
 
 ![png (1)](perfil_github.jpeg)
 
