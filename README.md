@@ -1,5 +1,3 @@
-### Olá 👋
-
 <h1 align="center">Hello.kt 💻 🌎</h1>
 
 ![Screenshot](https://github.com/Clevisson/Clevisson/blob/master/perfil_github.jpeg)
